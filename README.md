@@ -1,4 +1,4 @@
-# Designo Multipage Website (Vite + React)
+# Designo Multipage Website (Frontend Only, Vite + React)
 
 [🌐 Demo Website](https://your-demo-link-here.com)
 
@@ -45,3 +45,8 @@ Output akan ada di folder `dist/`.
 ---
 
 Project ini sudah siap dikembangkan lebih lanjut dengan ekosistem Vite.
+
+---
+
+**Catatan:**
+Project ini hanya berisi frontend (React + Vite) dan tidak memiliki backend/API server. Semua data dan tampilan bersifat statis atau dummy.
